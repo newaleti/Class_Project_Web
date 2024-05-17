@@ -22,7 +22,7 @@ function displayJobDetails() {
   if (job) {
     const jobDetailsHTML = `
             <div class="job-details">
-                <h1>${job.type}</h1>
+                <h2>${job.type}</h2>
                 <p><strong>User:</strong> ${job.user}</p>
                 <p><strong>Date:</strong> ${job.date}</p>
                 <p><strong>Location:</strong> ${job.location}</p>

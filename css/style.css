@@ -80,7 +80,7 @@ h1 {
     max-width: 600px;
 }
 
-.job-details h1 {
+.job-details h2 {
     margin-top: 0;
     color: #f8b418;
 }
@@ -91,17 +91,17 @@ h1 {
 }
 
 .job-details .description {
-    margin-top: 20px;
+    margin-top: 15px;
     color: #14213d;
 }
 
 .job-details .contact-info {
-    margin-top: 20px;
+    margin-top: 15px;
     color: #14213d;
 }
 
 .job-details .actions {
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 button {
